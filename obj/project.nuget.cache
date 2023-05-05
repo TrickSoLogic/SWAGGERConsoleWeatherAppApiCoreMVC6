@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItYL2KlqiC9/CQ6Y1XbS0vs93GNnffTxvnl+IJX7fUQhYaJUJCz1bzEbH4qDPb/NuFZZdfibjDTj0etWmmX8sg==",
+  "success": true,
+  "projectFilePath": "D:\\Hosted\\ConsoleAppApiCoreMVC\\ConsoleWeatherAppApiCoreMVC6\\SWAGGERConsoleWeatherAppApiCoreMVC6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\black-coder\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\black-coder\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\black-coder\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\black-coder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\black-coder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
